@@ -1,11 +1,10 @@
 {
-    "name": "asyncphp/doorman",
+    "name": "silverstripe-terraformers/doorman-process-manager",
     "description": "Child process management",
     "license": "MIT",
     "require": {
-        "php": ">=5.3.3",
-        "ramsey/array_column": "^1.1",
-        "jeremeamia/SuperClosure": "^1.0"
+        "php": ">=5.5.9",
+        "jeremeamia/superclosure": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.7"
