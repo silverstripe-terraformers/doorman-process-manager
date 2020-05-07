@@ -1,10 +1,10 @@
 # Doorman
 
-[![Build Status](http://img.shields.io/travis/asyncphp/doorman.svg?style=flat-square)](https://travis-ci.org/asyncphp/doorman)
-[![Code Quality](http://img.shields.io/scrutinizer/g/asyncphp/doorman.svg?style=flat-square)](https://scrutinizer-ci.com/g/asyncphp/doorman)
-[![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/asyncphp/doorman.svg?style=flat-square)](https://scrutinizer-ci.com/g/asyncphp/doorman)
-[![Version](http://img.shields.io/packagist/v/asyncphp/doorman.svg?style=flat-square)](https://packagist.org/packages/asyncphp/doorman)
-[![License](http://img.shields.io/packagist/l/asyncphp/doorman.svg?style=flat-square)](license.md)
+[![Build Status](http://img.shields.io/travis/silverstripe-terraformers/doorman-process-manager.svg?style=flat-square)](https://travis-ci.org/silverstripe-terraformers/doorman-process-manager)
+[![Code Quality](http://img.shields.io/scrutinizer/g/silverstripe-terraformers/doorman-process-manager.svg?style=flat-square)](https://scrutinizer-ci.com/g/silverstripe-terraformers/doorman-process-manager)
+[![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/silverstripe-terraformers/doorman-process-manager.svg?style=flat-square)](https://scrutinizer-ci.com/g/silverstripe-terraformers/doorman-process-manager)
+[![Version](http://img.shields.io/packagist/v/silverstripe-terraformers/doorman-process-manager.svg?style=flat-square)](https://packagist.org/packages/silverstripe-terraformers/doorman-process-manager)
+[![License](http://img.shields.io/packagist/l/silverstripe-terraformers/doorman-process-manager.svg?style=flat-square)](license.md)
 
 Child process management. Compatible from PHP `5.3` to PHP `7`. Needs no extensions.
 
