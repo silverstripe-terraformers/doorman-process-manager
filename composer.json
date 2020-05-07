@@ -1,5 +1,5 @@
 {
-    "name": "asyncphp/doorman",
+    "name": "silverstripe-terraformers/doorman-process-manager",
     "description": "Child process management",
     "license": "MIT",
     "require": {
